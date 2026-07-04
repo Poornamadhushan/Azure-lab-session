@@ -168,4 +168,4 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 **Poornamadhushan**
 
-GitHub: ![GitHub User name](https://github.com/Poornamadhushan)
+GitHub:[@Poornamadhushan](https://github.com/Poornamadhushan)
