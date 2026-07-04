@@ -1,4 +1,4 @@
-# 🚀 Azure Container Registry (ACR) Demo with Docker
+#  Azure Container Registry (ACR) Demo with Docker
 
 ![GitHub Repo Views](https://komarev.com/ghpvc/?username=poornamadhushan\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/poornamadhushan/REPOSITORY_NAME?style=for-the-badge)
@@ -43,7 +43,7 @@ docker --version
 
 Create a free Azure account if you don't already have one.
 
-🔗 https://azure.microsoft.com/free/
+🔗 https://azure.microsoft.com/free?wt.mc_id=studentamb_378285
 
 ---
 
